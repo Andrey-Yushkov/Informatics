@@ -7,3 +7,4 @@
 установка ubuntu
 2)
 создание файла с помощью клманды touch
+![image](https://github.com/user-attachments/assets/3e44f24d-deda-45c2-8f55-56373aa7ca1e)
