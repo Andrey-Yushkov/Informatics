@@ -23,15 +23,13 @@
 
 Для выполнения лабораторной работы, я установил дистрибутив Linux Ubuntu и запустил его. Далее я открыл терминал и приступил к выполнению задания.
 
-### Часть 1
-1. Создала новый файл с именем `script.bash`
+### Выполнение предворительного задания
+1. Создание нового файла с именем `script.bash`
 
-```bash
-touch script.bash
-```
-<img width="800" src="images/im1.png"/>
+![image](https://github.com/user-attachments/assets/2f993dad-22f4-4f12-a36d-528b55144da5)
 
-2. Открыла созданный файл `script.bash` в текстовом редакторе в Linux Ubuntu это `gedit`
+
+2. Загрузил библеотеку getdit,Открыла созданный файл `script.bash` в текстовом редакторе в Linux Ubuntu это `gedit`
 
 ```bash
 gedit script.bash
