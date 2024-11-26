@@ -29,68 +29,40 @@
 ![image](https://github.com/user-attachments/assets/2f993dad-22f4-4f12-a36d-528b55144da5)
 
 
-2. Загрузил библеотеку getdit,Открыла созданный файл `script.bash` в текстовом редакторе в Linux Ubuntu это `gedit`
+2. Загрузил библеотеку getdit, после чего открыл созданный файл `script.bash` 
 
-```bash
-gedit script.bash
-```
-<img width="800" src="images/im2.png"/>
+![image](https://github.com/user-attachments/assets/e723c396-3354-4267-87a7-1f4913a75f5a)
 
-3. Вписала следующий скрипт
 
-```bash
-#!/bin/bash
+3. Вписал скрипт
 
-echo "Welcome to ITMO University"
-```
-<img width="800" src="images/im3.png"/>
+![image](https://github.com/user-attachments/assets/e14c333d-dda5-4da5-b689-01b17949476d)
 
-4. Сохранила файл и закрыла текстовый редактор `gedit`. Запустила bash-скрипт, выполнив в терминале
 
-```bash
-bash script.bash
-```
+4. Сохранил файл и закрыл текстовый редактор `gedit, после чего запустил bash-скрипт
 
-В терминале отобразилась строка `Welcome to ITMO University`
+![image](https://github.com/user-attachments/assets/d1e4aa6d-d2a5-46e3-b4d2-c8d492271921)
 
-<img width="800" src="images/im4.png"/>
 
 
 
 ### Задача
 
-1. Еще раз открыла файл `script.bash` в текстовом редакторе `gedit`
+1. Еще раз открыл файл `script.bash` в текстовом редакторе `gedit`
 
-```bash
-gedit script.bash
-```
-<img width="800" src="images/im5.png"/>
+![image](https://github.com/user-attachments/assets/e723c396-3354-4267-87a7-1f4913a75f5a)
 
 2. Вписала следующий скрипт
 
-```bash
-#!/bin/bash
-name="$@"
-echo "Welcome, $name"
-```
-<img width="800" src="images/im6.png"/>
+![image](https://github.com/user-attachments/assets/88fdd791-69d2-465f-98ba-e1bf975d34c9)
 
-"$@" - я использовала имеено эту команду, потому что каждое введенное слово будет считаться как отдельный аргумент (и при этом правильно учитывает все пробелы и разделения), каждый параметр представлен как отдельная строка (слово), т.е. параметры не подвергаются какой либо интерпретации. А кавычки поставила, та как они, служат для предотвращения интерпретации специальных символов, которые могут находиться в строке.
+
+"$@" - это команда считывает все переданные аргументы с учетом пробелов
 
 3. Сохранила файл и закрыла текстовый редактор `gedit`. Запустила bash-скрипт, выполнив в терминале
 
-```bash
-bash script.bash Vasya Pupkin
-```
-Вывод был
+![image](https://github.com/user-attachments/assets/66a62f9a-a08c-4a8d-b158-c9e34e9b69f0)
 
-`Welcome, Vasya Pupkin`
 
-<img width="800" src="images/im8.png"/>
-
-4. Протестировала команду еще раз, чтобы убедиться, что все точно работает, выполнив в терминале
-   
-```bash
-bash script.bash Alisa Korotkova
-```
-<img width="800" src="images/im7.png"/>
+### Вывод
+В ходе выполнения задания я познакомился с операционной системой ubuntu, научился использовать некоторые команды
