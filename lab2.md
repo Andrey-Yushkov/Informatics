@@ -114,6 +114,8 @@ binary_ip+="$binary_octet."
   else
     echo "Ошибка: Неверный формат IP-адреса"
 ```
+Пример работы программы
+![image](https://github.com/user-attachments/assets/97774892-b5d4-40f3-b096-29687c0aef6d)
 
 ### Вывод по лабораторной работе
 
