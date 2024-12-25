@@ -27,7 +27,6 @@
 sudo docker run -d --name aafire1 aafire-image sleep infinity
 sudo docker run -d --name aafire2 aafire-image sleep infinity
 ```
-<img src="images/start_two.png" width="500px"/>
 
 
 ### 6) Создим сеть "myNetwork" и подключаем к ней контейнеры:
