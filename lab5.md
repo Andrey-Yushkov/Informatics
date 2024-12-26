@@ -14,6 +14,8 @@
 
 ![image](https://github.com/user-attachments/assets/818d8b51-c13d-4a91-b305-04ecd7df06f9)
 
-Далее я создаю пустой  файл '''empty-file.txt''' и проверяю его с помощью commit
+Далее я создаю пустой  файл `empty-file1.txt` и проверяю его с помощью commit
 
 ![image](https://github.com/user-attachments/assets/4b84e984-79d3-4e0d-912b-2f2376d46343)
+
+## Задание 2 - Использование Git Flow в проекте
